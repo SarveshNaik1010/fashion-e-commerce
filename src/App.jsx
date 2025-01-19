@@ -41,9 +41,12 @@ function App() {
               />
             }
           >
-            <Route index='/all-products' element={<Navigate replace to="/" />}/>
             <Route
-              path="/"
+              index="/"
+              element={<Navigate replace to="/all-products" />}
+            />
+            <Route
+              path="/all-products"
               element={
                 <ProductList
                   isAscending={isAscending}
