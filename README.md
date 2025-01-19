@@ -1,6 +1,6 @@
 # React E-commerce Project
 
-LINK: https://fashion-e-commerce-two.vercel.app/
+LINK: https://fashion-e-commerce-delta.vercel.app
 
 This project is a simple e-commerce application built with React.js, showcasing core functionalities like adding products to a cart.
 
