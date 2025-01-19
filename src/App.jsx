@@ -41,10 +41,7 @@ function App() {
               />
             }
           >
-            <Route
-              index="/"
-              element={<Navigate replace to="/all-products" />}
-            />
+            <Route path="/" element={<Navigate replace to="/all-products" />} />
             <Route
               path="/all-products"
               element={
