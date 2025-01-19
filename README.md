@@ -5,19 +5,19 @@ This project is a simple e-commerce application built with React.js, showcasing 
 **Key Features:**
 
 * **Product Listing:**
-    * **Search Functionality:** Efficiently search for products by name or keyword.
-    * **Filtering:** Filter products by category, price range, or other relevant criteria.
+    * **Search Functionality:** Search for products by name .
+    * **Filtering:** Filter products by category.
     * **Product Cards:** Display products with visually appealing and informative cards.
 * **Product Details:** 
     * Detailed product information including descriptions, images, and pricing.
 * **Add to Cart:** 
-    * Seamlessly add products to the shopping cart.
     * View and manage cart items.
 * **Responsive Design:** 
     * The application adapts seamlessly to various screen sizes and devices (desktops, tablets, and mobile).
 
 **Technologies Used:**
 
-* **React.js:** A JavaScript library for building user interfaces.
 * **React Query:** A powerful data fetching and caching library for React.
-* **React Redux Toolkit:** (Optional) For managing application state.
+* **Redux Toolkit:** For managing application state.
+* **React Router:** Implementing single page website and effective routing.
+* **Tailwind CSS:** Styling and making webiste responsive.
